@@ -1,13 +1,56 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Software Quality Assurance (SQA) e Gestão de Requisitos
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Egberto Silva de Santana
+Brasileiro, Solteiro, 21 anos.
+Data de Nascimento: 04/06/1995
+Av. Manoel Carneiro Leão, 423 - Dois Carneiros, Jaboatão/PE Telefone: (81) 3251-0644 Celular: (81) 9 8584-2192
+E-mail: ess2@cin.ufpe.br Linkedin: br.linkedin.com/in/egbertosantana
+
+Formação:
+- 2013.2 Universidade Federal de Pernambuco (UFPE) - Centro de Informática
+- Bacharelado em Ciência da Computação - 10º Período em curso.
+- Ensinamento acadêmico da linguagem Java usando o software Eclipse IDE.
+- Monitor de Matemática Discreta (Ciência da Computação/Engenharia da Computação) – 2015.1 a 2016.1
+- Monitor de Gerenciamento de Dados e Informações (Ciência da Computação) - 2015.2 a 2017.2
+		       
+Experiência          
+Junho/2017 ~ Atualmente - Edax Technology
+	- Estagiário Full Stack Developer.
+	Atuo como desenvolvedor .NET na parte de backend, desenvolvendo novas novas features, correção, de um software de gestão 		hospitalar. Atuo também com frameworks como Aurelia e  Knockout.
+
+Janeiro/2016 ~ Outubro/2016 - Openredu.org
+	- Bolsista CNPQ/CAPEs na área de Desenvolvedor pelo professor Alex Sandro Gomes, Ph.D. – CIn UFPE.	 
+	Atuei como desenvolvedor Ruby On Rails na parte de backend, contribuindo para features de uma plataforma de rede social 		educacional Openredu. Tive também a experiência de gerenciar o projeto coordenando a equipe.
+
+ 2015.1 - CITi (Centro Integrado de Tecnologia da Informação)
+	- Trainee na área de Assessoria de Gestão.
+	Atuei como além de trainee de assessoria de gestão, como desenvolvedor (backend) utilizando django, contribuindo para criação de  	  novas plataformas para a empresa.
+
+Conhecimentos:	  
+- PHP(Básico)
+- Django(Intermediário)
+- Java(Intermediário)
+- SQL Server(Intermediário)
+- MySQL(Intermediário)
+- HTML, CSS, Javascript(Intermediário)
+- Aurelia(Intermediário)
+- .NET(Intermediário)
+- Knockout(Intermediário)
+- Git(Avançado)
+- Ruby On Rails(Básico)
+- Ruby(Básico)	
+- Haskell(Básico)
+- C#(Avançado)	  
+
+Idioma:
+- English (Intermediário)
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
